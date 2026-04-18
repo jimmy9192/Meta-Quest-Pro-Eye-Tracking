@@ -1,71 +1,64 @@
 using UnityEngine;
-using UnityEngine.XR;
-using UnityEngine.XR.OpenXR;
-using UnityEngine.XR.OpenXR.Features.Interactions;
-using System.Collections.Generic;
 
 public class EyeGazeController : MonoBehaviour
 {
+    private OVRPlugin.EyeGazesState EyeGazeState;
     public GameObject RightTargetObject;
     public GameObject LeftTargetObject;
     public Camera RightTargetCamera;
     public Camera LeftTargetCamera;
 
-    private InputDevice eyeTrackingDevice;
-
     void Start()
     {
-        // Eye Tracking デバイスを取得
-        List<InputDevice> devices = new List<InputDevice>();
-        InputDeviceCharacteristics eyeTrackingCharacteristics =
-            InputDeviceCharacteristics.EyeTracking | InputDeviceCharacteristics.TrackedDevice;
-        InputDevices.GetDevicesWithCharacteristics(eyeTrackingCharacteristics, devices);
-
-        if (devices.Count > 0)
-        {
-            eyeTrackingDevice = devices[0];
-            Debug.Log("Eye Tracking device found: " + eyeTrackingDevice.name);
-        }
-        else
-        {
-            Debug.LogWarning("Eye Tracking device not found.");
-        }
+        Debug.Log("★★★ EyeGazeController started! ★★★");
     }
 
     void Update()
     {
-        if (!eyeTrackingDevice.isValid)
+        bool success = OVRPlugin.GetEyeGazesState(OVRPlugin.Step.Render, -1, ref EyeGazeState);
+        Debug.Log("GetEyeGazesState: " + success);
+
+        if (success)
         {
-            // デバイスが見つからない場合、再取得を試みる
-            List<InputDevice> devices = new List<InputDevice>();
-            InputDevices.GetDevicesWithCharacteristics(
-                InputDeviceCharacteristics.EyeTracking | InputDeviceCharacteristics.TrackedDevice,
-                devices);
-            if (devices.Count > 0)
-            {
-                eyeTrackingDevice = devices[0];
-            }
-            return;
-        }
+            var LeftEyeGaze = EyeGazeState.EyeGazes[(int)OVRPlugin.Eye.Left];
+            var RightEyeGaze = EyeGazeState.EyeGazes[(int)OVRPlugin.Eye.Right];
 
-        // 視線の位置と向きを取得
-        if (eyeTrackingDevice.TryGetFeatureValue(CommonUsages.devicePosition, out Vector3 gazePosition) &&
-            eyeTrackingDevice.TryGetFeatureValue(CommonUsages.deviceRotation, out Quaternion gazeRotation))
-        {
-            Vector3 gazeDirection = gazeRotation * Vector3.forward;
+            Debug.Log("LeftEyeGaze.IsValid: " + LeftEyeGaze.IsValid);
+            Debug.Log("RightEyeGaze.IsValid: " + RightEyeGaze.IsValid);
 
-            // Left Eye
-            Vector3 leftRayOrigin = LeftTargetCamera.transform.position;
-            if (Physics.Raycast(leftRayOrigin, gazeDirection, out RaycastHit leftHit))
+            if (LeftEyeGaze.IsValid)
             {
-                LeftTargetObject.transform.position = leftHit.point;
-            }
+                var LeftPose = LeftEyeGaze.Pose.ToOVRPose();
+                var RightPose = RightEyeGaze.Pose.ToOVRPose();
 
-            // Right Eye
-            Vector3 rightRayOrigin = RightTargetCamera.transform.position;
-            if (Physics.Raycast(rightRayOrigin, gazeDirection, out RaycastHit rightHit))
-            {
-                RightTargetObject.transform.position = rightHit.point;
+                Vector3 GazeLeftDirection = LeftPose.orientation * Vector3.forward;
+                Vector3 GazeRightDirection = RightPose.orientation * Vector3.forward;
+
+                Vector3 GazeLeftPosition = LeftTargetCamera.transform.position;
+                Vector3 GazeRightPosition = RightTargetCamera.transform.position;
+
+                Debug.Log("Left Gaze Direction: " + GazeLeftDirection);
+                Debug.Log("Left Camera Position: " + GazeLeftPosition);
+
+                if (Physics.Raycast(GazeLeftPosition, GazeLeftDirection, out RaycastHit lefthitinfo))
+                {
+                    Debug.Log("Left Hit: " + lefthitinfo.collider.name);
+                    LeftTargetObject.transform.position = lefthitinfo.point;
+                }
+                else
+                {
+                    Debug.Log("Left Raycast did not hit anything");
+                }
+
+                if (Physics.Raycast(GazeRightPosition, GazeRightDirection, out RaycastHit righthitinfo))
+                {
+                    Debug.Log("Right Hit: " + righthitinfo.collider.name);
+                    RightTargetObject.transform.position = righthitinfo.point;
+                }
+                else
+                {
+                    Debug.Log("Right Raycast did not hit anything");
+                }
             }
         }
     }
