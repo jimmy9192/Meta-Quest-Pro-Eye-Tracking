@@ -283,8 +283,8 @@ Transform:
   m_GameObject: {fileID: 391610043}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.5, y: 6.0499997, z: 0.5}
-  m_LocalScale: {x: 10, y: 10, z: 1}
+  m_LocalPosition: {x: 0.5, y: 6.0499997, z: 7.3}
+  m_LocalScale: {x: 50, y: 50, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -856,6 +856,10 @@ MonoBehaviour:
   LeftTargetObject: {fileID: 1430469225}
   RightTargetCamera: {fileID: 1565119229}
   LeftTargetCamera: {fileID: 1565119227}
+  startDelay: 5
+  recordingDuration: 5
+  experimentCondition: baseline
+  saveFolderName: ExperimentData
 --- !u!1 &2035105415
 GameObject:
   m_ObjectHideFlags: 0
