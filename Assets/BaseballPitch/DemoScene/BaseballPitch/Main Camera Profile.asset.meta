@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9b55b1797099c124a9d224190672eec7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 237971
+  packageName: Baseball Field
+  packageVersion: 1.0
+  assetPath: Assets/BaseballPitch/DemoScene/BaseballPitch/Main Camera Profile.asset
+  uploadId: 831726

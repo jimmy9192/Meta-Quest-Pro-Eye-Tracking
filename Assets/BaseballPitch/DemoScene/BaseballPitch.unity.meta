@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 506a5af6af4d3ca4fa4e329d7ce8cb7a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 237971
+  packageName: Baseball Field
+  packageVersion: 1.0
+  assetPath: Assets/BaseballPitch/DemoScene/BaseballPitch.unity
+  uploadId: 831726

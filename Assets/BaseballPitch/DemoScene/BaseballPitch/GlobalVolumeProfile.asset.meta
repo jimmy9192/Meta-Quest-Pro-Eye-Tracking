@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 02f8ffa72e2ab924196cd9fa9e5cea3a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 237971
+  packageName: Baseball Field
+  packageVersion: 1.0
+  assetPath: Assets/BaseballPitch/DemoScene/BaseballPitch/GlobalVolumeProfile.asset
+  uploadId: 831726

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4a6823b511b3d5540b75c7f5d7ddadd7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 237971
+  packageName: Baseball Field
+  packageVersion: 1.0
+  assetPath: Assets/BaseballPitch/DemoScene/BaseballPitch/BaseballPitch Baking Set.asset
+  uploadId: 831726

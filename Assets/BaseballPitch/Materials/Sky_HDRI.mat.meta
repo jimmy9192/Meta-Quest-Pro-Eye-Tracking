@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea1153c63a138d040bdb77a82844be6b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 237971
+  packageName: Baseball Field
+  packageVersion: 1.0
+  assetPath: Assets/BaseballPitch/Materials/Sky_HDRI.mat
+  uploadId: 831726
