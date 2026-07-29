@@ -20,7 +20,7 @@ public class EyeGazeController : MonoBehaviour
     public Camera LeftTargetCamera;
 
     [Header("記録設定")]
-    public float startDelay = 5f;          // 記録開始までの待機時間（秒）
+    // public float startDelay = 5f;       // ← Aボタン起動に変更したため未使用
     public float recordingDuration = 5f;   // 記録時間（秒）
     public string experimentCondition = "baseline";  // 実験条件名
 
@@ -58,7 +58,7 @@ public class EyeGazeController : MonoBehaviour
     void Start()
     {
         Debug.Log("EyeGazeController started!");
-        Debug.Log("記録は " + startDelay + " 秒後に開始され、" + recordingDuration + " 秒間記録します");
+        Debug.Log("Aボタンを押すと記録開始、" + recordingDuration + " 秒間記録します");
 
         // 保存先フォルダを設定
         SetupSaveFolder();
@@ -100,13 +100,13 @@ public class EyeGazeController : MonoBehaviour
     {
         elapsedTime += Time.deltaTime;
 
-        // 5秒経過したら記録開始
-        if (!hasStarted && elapsedTime >= startDelay)
+        // Aボタンを押したら記録開始（まだ開始していない場合のみ）
+        if (!hasStarted && OVRInput.GetDown(OVRInput.Button.One))
         {
             isRecording = true;
             hasStarted = true;
             recordingStartTime = elapsedTime;
-            Debug.Log("===== 記録開始 =====");
+            Debug.Log("===== 記録開始（Aボタン） =====");
         }
 
         // 5秒間の記録が完了したら終了

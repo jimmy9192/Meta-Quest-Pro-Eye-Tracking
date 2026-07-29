@@ -1,0 +1,450 @@
+Timestamp,LeftHit,LeftHitObject,LeftHitTag,LeftHitX,LeftHitY,LeftHitZ,RightHit,RightHitObject,RightHitTag,RightHitX,RightHitY,RightHitZ
+0.0000,True,Pitching Machine Cylinder,Untagged,2.2774,2.6885,-33.2894,True,Wall,Untagged,0.9438,3.3711,-19.2000
+0.0117,True,Pitching Machine Cylinder,Untagged,2.2853,2.6934,-33.2852,True,Wall,Untagged,0.9598,3.3801,-19.2000
+0.0222,True,Pitching Machine Cylinder,Untagged,2.2936,2.6936,-33.2808,True,Wall,Untagged,0.9767,3.3796,-19.2000
+0.0332,True,Pitching Machine Cylinder,Untagged,2.3041,2.6915,-33.2748,True,Wall,Untagged,0.9981,3.3740,-19.2000
+0.0443,True,Pitching Machine Cylinder,Untagged,2.3184,2.6746,-33.2663,True,Wall,Untagged,1.0270,3.3384,-19.2000
+0.0556,True,Pitching Machine Cylinder,Untagged,2.3542,2.6617,-33.2351,True,Wall,Untagged,1.0990,3.3086,-19.2000
+0.0666,True,Pitching Machine Cylinder,Untagged,2.3579,2.6585,-33.2309,True,Wall,Untagged,1.1064,3.3012,-19.2000
+0.0779,True,Pitching Machine Cylinder,Untagged,2.3628,2.6544,-33.2250,True,Wall,Untagged,1.1162,3.2917,-19.2000
+0.0889,True,Pitching Machine Cylinder,Untagged,2.3354,2.6500,-33.2520,True,Wall,Untagged,1.0617,3.2851,-19.2000
+0.0999,True,Pitching Machine Cylinder,Untagged,2.2804,2.6166,-33.2824,True,Wall,Untagged,0.9509,3.2195,-19.2000
+0.1113,True,Pitching Machine Cylinder,Untagged,2.2858,2.6468,-33.2849,True,Wall,Untagged,0.9619,3.2809,-19.2000
+0.1223,True,Pitching Machine Cylinder,Untagged,2.2942,2.6405,-33.2797,True,Wall,Untagged,0.9789,3.2674,-19.2000
+0.1334,True,Pitching Machine Cube,Untagged,2.4550,2.6687,-33.1200,True,Pitching Machine Cube,Untagged,1.7725,2.6791,-33.1200
+0.1443,True,Wall,Untagged,2.9258,3.3080,-19.2000,True,Pitching Machine Cube,Untagged,1.8671,2.6891,-33.1200
+0.1558,True,Wall,Untagged,2.9288,3.2956,-19.2000,True,Pitching Machine Cube,Untagged,1.8686,2.6826,-33.1200
+0.1671,True,Wall,Untagged,2.9430,3.3563,-19.2000,True,Pitching Machine Cube,Untagged,1.8756,2.7125,-33.1200
+0.1793,True,Wall,Untagged,2.9423,3.3451,-19.2000,True,Pitching Machine Cube,Untagged,1.8752,2.7066,-33.1200
+0.1890,True,Wall,Untagged,2.9394,3.3289,-19.2000,True,Pitching Machine Cube,Untagged,1.8737,2.6983,-33.1200
+0.2004,True,Wall,Untagged,2.9317,3.3674,-19.2000,True,Pitching Machine Cube,Untagged,1.8698,2.7175,-33.1200
+0.2116,True,Wall,Untagged,2.9301,3.3630,-19.2000,True,Pitching Machine Cube,Untagged,1.8690,2.7151,-33.1200
+0.2230,True,Wall,Untagged,2.9805,3.3520,-19.2000,True,Pitching Machine Cube,Untagged,1.8941,2.7098,-33.1200
+0.2341,True,Wall,Untagged,2.9804,3.3421,-19.2000,True,Pitching Machine Cube,Untagged,1.8940,2.7048,-33.1200
+0.2451,True,Wall,Untagged,2.9801,3.4224,-19.2000,True,Pitching Machine Cube,Untagged,1.8937,2.7448,-33.1200
+0.2563,True,Wall,Untagged,2.9758,3.4212,-19.2000,True,Pitching Machine Cube,Untagged,1.8916,2.7440,-33.1200
+0.2670,True,Wall,Untagged,2.9721,3.4395,-19.2000,True,Pitching Machine Cube,Untagged,1.8897,2.7529,-33.1200
+0.2785,True,Pitching Machine Cube,Untagged,2.5343,2.7431,-33.1200,True,Pitching Machine Cube,Untagged,1.8514,2.7521,-33.1200
+0.2896,True,Pitching Machine Cube,Untagged,2.5325,2.7485,-33.1200,True,Pitching Machine Cube,Untagged,1.8496,2.7575,-33.1200
+0.3008,True,Wall,Untagged,2.9290,3.4633,-19.2000,True,Pitching Machine Cube,Untagged,1.8682,2.7652,-33.1200
+0.3118,True,Wall,Untagged,2.9244,3.4626,-19.2000,True,Pitching Machine Cube,Untagged,1.8659,2.7650,-33.1200
+0.3234,True,Wall,Untagged,2.9240,3.4717,-19.2000,True,Pitching Machine Cube,Untagged,1.8656,2.7696,-33.1200
+0.3340,True,Wall,Untagged,2.9762,3.5936,-19.2000,True,Pitching Machine Cube,Untagged,1.8914,2.8310,-33.1200
+0.3452,True,Wall,Untagged,2.9680,3.6042,-19.2000,True,Pitching Machine Cube,Untagged,1.8873,2.8366,-33.1200
+0.3565,True,Wall,Untagged,2.9518,3.6130,-19.2000,True,Pitching Machine Cube,Untagged,1.8792,2.8417,-33.1200
+0.3673,True,Wall,Untagged,2.9330,3.6430,-19.2000,True,Pitching Machine Cube,Untagged,1.8698,2.8569,-33.1200
+0.3785,True,Wall,Untagged,2.9992,3.6483,-19.2000,True,Pitching Machine Cube,Untagged,1.9027,2.8600,-33.1200
+0.3899,True,Wall,Untagged,2.9776,3.5661,-19.2000,True,Pitching Machine Cube,Untagged,1.8920,2.8194,-33.1200
+0.4012,True,Wall,Untagged,2.9562,3.5681,-19.2000,True,Pitching Machine Cube,Untagged,1.8814,2.8209,-33.1200
+0.4119,True,Wall,Untagged,2.9309,3.5209,-19.2000,True,Pitching Machine Cube,Untagged,1.8688,2.7979,-33.1200
+0.4238,True,Pitching Machine Cube,Untagged,2.5424,2.7875,-33.1200,True,Pitching Machine Cube,Untagged,1.8593,2.8012,-33.1200
+0.4346,True,Pitching Machine Cube,Untagged,2.5218,2.7886,-33.1200,True,Pitching Machine Cube,Untagged,1.8387,2.8028,-33.1200
+0.4454,True,Wall,Untagged,3.0023,3.5297,-19.2000,True,Pitching Machine Cube,Untagged,1.9042,2.8040,-33.1200
+0.4566,True,Wall,Untagged,2.9817,3.5298,-19.2000,True,Pitching Machine Cube,Untagged,1.8939,2.8045,-33.1200
+0.4678,True,Pitching Machine Cube,Untagged,2.5312,2.8245,-33.1200,True,Pitching Machine Cube,Untagged,1.8479,2.8396,-33.1200
+0.4793,True,Pitching Machine Cube,Untagged,2.5198,2.8289,-33.1200,True,Pitching Machine Cube,Untagged,1.8365,2.8442,-33.1200
+0.4900,True,Wall,Untagged,2.9250,3.6974,-19.2000,True,Pitching Machine Cube,Untagged,1.8653,2.8884,-33.1200
+0.5015,True,Wall,Untagged,3.0011,3.6285,-19.2000,True,Pitching Machine Cube,Untagged,1.9033,2.8542,-33.1200
+0.5122,True,Wall,Untagged,2.9850,3.6334,-19.2000,True,Pitching Machine Cube,Untagged,1.8952,2.8568,-33.1200
+0.5238,True,Wall,Untagged,2.9775,3.6104,-19.2000,True,Pitching Machine Cube,Untagged,1.8915,2.8451,-33.1200
+0.5348,True,Wall,Untagged,2.9857,3.5585,-19.2000,True,Pitching Machine Cube,Untagged,1.8956,2.8194,-33.1200
+0.5459,True,Wall,Untagged,2.9747,3.5236,-19.2000,True,Pitching Machine Cube,Untagged,1.8902,2.8021,-33.1200
+0.5569,True,Wall,Untagged,3.0514,3.5124,-19.2000,True,Pitching Machine Cube,Untagged,1.9283,2.7965,-33.1200
+0.5679,True,Wall,Untagged,3.0392,3.5066,-19.2000,True,Pitching Machine Cube,Untagged,1.9223,2.7937,-33.1200
+0.5790,True,Wall,Untagged,3.0253,3.4924,-19.2000,True,Pitching Machine Cube,Untagged,1.9154,2.7866,-33.1200
+0.5901,True,Wall,Untagged,3.0394,3.5402,-19.2000,True,Pitching Machine Cube,Untagged,1.9224,2.8107,-33.1200
+0.6015,True,Wall,Untagged,3.0371,3.5338,-19.2000,True,Pitching Machine Cube,Untagged,1.9213,2.8076,-33.1200
+0.6127,True,Wall,Untagged,3.1348,3.4632,-19.2000,True,Pitching Machine Cylinder,Untagged,1.9710,2.7698,-33.1714
+0.6240,True,Wall,Untagged,3.3087,3.4249,-19.2000,True,Pitching Machine Cylinder,Untagged,2.0586,2.7459,-33.2720
+0.6350,True,Wall,Untagged,3.3056,3.4161,-19.2000,True,Pitching Machine Cylinder,Untagged,2.0572,2.7417,-33.2727
+0.6458,True,Wall,Untagged,3.3039,3.4002,-19.2000,True,Pitching Machine Cylinder,Untagged,2.0564,2.7338,-33.2747
+0.6574,True,Wall,Untagged,3.1988,3.4488,-19.2000,True,Pitching Machine Cylinder,Untagged,2.0037,2.7604,-33.2232
+0.6685,True,Wall,Untagged,3.2019,3.4504,-19.2000,True,Pitching Machine Cylinder,Untagged,2.0053,2.7613,-33.2244
+0.6794,True,Wall,Untagged,3.1973,3.4504,-19.2000,True,Pitching Machine Cylinder,Untagged,2.0030,2.7616,-33.2218
+0.6904,True,Wall,Untagged,3.2028,3.4508,-19.2000,True,Pitching Machine Cylinder,Untagged,2.0058,2.7620,-33.2245
+0.7022,True,Wall,Untagged,3.2102,3.5715,-19.2000,True,Pitching Machine Cylinder,Untagged,2.0083,2.8248,-33.1700
+0.7129,True,Wall,Untagged,3.2147,3.5657,-19.2000,True,Pitching Machine Cylinder,Untagged,2.0107,2.8215,-33.1780
+0.7244,True,Wall,Untagged,3.2161,3.5890,-19.2000,True,Pitching Machine Cylinder,Untagged,2.0111,2.8339,-33.1602
+0.7353,True,Wall,Untagged,3.2980,3.5860,-19.2000,True,Pitching Machine Cylinder,Untagged,2.0525,2.8293,-33.2133
+0.7467,True,Wall,Untagged,3.2967,3.5875,-19.2000,True,Pitching Machine Cylinder,Untagged,2.0518,2.8301,-33.2120
+0.7580,True,Wall,Untagged,3.2886,3.5912,-19.2000,True,Pitching Machine Cylinder,Untagged,2.0477,2.8320,-33.2064
+0.7690,True,Wall,Untagged,3.2783,3.4135,-19.2000,True,Pitching Machine Cylinder,Untagged,2.0437,2.7410,-33.2649
+0.7804,True,Wall,Untagged,3.1846,3.4197,-19.2000,True,Pitching Machine Cylinder,Untagged,1.9968,2.7462,-33.2232
+0.7914,True,Wall,Untagged,3.1867,3.4688,-19.2000,True,Pitching Machine Cylinder,Untagged,1.9975,2.7714,-33.2093
+0.8024,True,Wall,Untagged,3.1859,3.4727,-19.2000,True,Pitching Machine Cylinder,Untagged,1.9970,2.7735,-33.2073
+0.8138,True,Wall,Untagged,3.1915,3.5563,-19.2000,True,Pitching Machine Cylinder,Untagged,1.9990,2.8174,-33.1653
+0.8248,True,Pitching Machine Cube,Untagged,2.5038,2.8073,-33.1200,True,Pitching Machine Cube,Untagged,1.8206,2.8246,-33.1200
+0.8357,True,Pitching Machine Cube,Untagged,2.5039,2.8046,-33.1200,True,Pitching Machine Cube,Untagged,1.8206,2.8219,-33.1200
+0.8468,True,Pitching Machine Cube,Untagged,2.5026,2.7701,-33.1200,True,Pitching Machine Cube,Untagged,1.8195,2.7875,-33.1200
+0.8584,True,Pitching Machine Cube,Untagged,2.5035,2.7694,-33.1200,True,Pitching Machine Cube,Untagged,1.8203,2.7867,-33.1200
+0.8689,True,Pitching Machine Cube,Untagged,2.5055,2.7695,-33.1200,True,Pitching Machine Cube,Untagged,1.8224,2.7868,-33.1200
+0.8802,True,Pitching Machine Cube,Untagged,2.5082,2.8138,-33.1200,True,Pitching Machine Cube,Untagged,1.8250,2.8312,-33.1200
+0.8916,True,Pitching Machine Cube,Untagged,2.5169,2.8123,-33.1200,True,Pitching Machine Cube,Untagged,1.8336,2.8298,-33.1200
+0.9025,True,Pitching Machine Cube,Untagged,2.5409,2.8025,-33.1200,True,Pitching Machine Cube,Untagged,1.8577,2.8202,-33.1200
+0.9139,True,Pitching Machine Cube,Untagged,2.5441,2.7927,-33.1200,True,Pitching Machine Cube,Untagged,1.8610,2.8105,-33.1200
+0.9252,True,Wall,Untagged,2.9193,3.5285,-19.2000,True,Pitching Machine Cube,Untagged,1.8629,2.8067,-33.1200
+0.9362,True,Wall,Untagged,2.9170,3.5225,-19.2000,True,Pitching Machine Cube,Untagged,1.8618,2.8038,-33.1200
+0.9469,True,Wall,Untagged,2.9908,3.5387,-19.2000,True,Pitching Machine Cube,Untagged,1.8985,2.8119,-33.1200
+0.9589,True,Pitching Machine Cube,Untagged,2.5052,2.7956,-33.1200,True,Pitching Machine Cube,Untagged,1.8221,2.8136,-33.1200
+0.9691,True,Pitching Machine Cube,Untagged,2.5035,2.7964,-33.1200,True,Pitching Machine Cube,Untagged,1.8203,2.8144,-33.1200
+0.9804,True,Pitching Machine Cube,Untagged,2.5140,2.8020,-33.1200,True,Pitching Machine Cube,Untagged,1.8308,2.8200,-33.1200
+0.9919,True,Pitching Machine Cube,Untagged,2.5109,2.7999,-33.1200,True,Pitching Machine Cube,Untagged,1.8277,2.8179,-33.1200
+1.0027,True,Pitching Machine Cube,Untagged,2.5077,2.7973,-33.1200,True,Pitching Machine Cube,Untagged,1.8245,2.8154,-33.1200
+1.0142,True,Pitching Machine Cube,Untagged,2.5222,2.8451,-33.1200,True,Pitching Machine Cube,Untagged,1.8389,2.8632,-33.1200
+1.0251,True,Pitching Machine Cube,Untagged,2.5184,2.8403,-33.1200,True,Pitching Machine Cube,Untagged,1.8351,2.8585,-33.1200
+1.0360,True,Pitching Machine Cube,Untagged,2.5141,2.8413,-33.1200,True,Pitching Machine Cube,Untagged,1.8308,2.8597,-33.1200
+1.0469,True,Pitching Machine Cube,Untagged,2.5176,2.8383,-33.1200,True,Pitching Machine Cube,Untagged,1.8343,2.8567,-33.1200
+1.0585,True,Pitching Machine Cube,Untagged,2.5099,2.8404,-33.1200,True,Pitching Machine Cube,Untagged,1.8266,2.8590,-33.1200
+1.0691,True,Pitching Machine Cube,Untagged,2.5034,2.8338,-33.1200,True,Pitching Machine Cube,Untagged,1.8201,2.8523,-33.1200
+1.0802,True,Pitching Machine Cube,Untagged,2.5074,2.8342,-33.1200,True,Pitching Machine Cube,Untagged,1.8241,2.8527,-33.1200
+1.0915,True,Pitching Machine Cube,Untagged,2.4967,2.8300,-33.1200,True,Pitching Machine Cube,Untagged,1.8134,2.8486,-33.1200
+1.1024,True,Wall,Untagged,2.9565,3.5165,-19.2000,True,Pitching Machine Cube,Untagged,1.8812,2.8015,-33.1200
+1.1137,True,Wall,Untagged,2.9356,3.5129,-19.2000,True,Pitching Machine Cube,Untagged,1.8708,2.7997,-33.1200
+1.1248,True,Pitching Machine Cube,Untagged,2.5085,2.7835,-33.1200,True,Pitching Machine Cube,Untagged,1.8253,2.8022,-33.1200
+1.1360,True,Pitching Machine Cube,Untagged,2.5027,2.7799,-33.1200,True,Pitching Machine Cube,Untagged,1.8196,2.7989,-33.1200
+1.1470,True,Pitching Machine Cube,Untagged,2.4614,2.7736,-33.1200,True,Pitching Machine Cube,Untagged,1.7783,2.7925,-33.1200
+1.1582,True,Pitching Machine Cube,Untagged,2.4511,2.7697,-33.1200,True,Pitching Machine Cube,Untagged,1.7679,2.7887,-33.1200
+1.1695,True,Pitching Machine Cube,Untagged,2.4742,2.7838,-33.1200,True,Pitching Machine Cube,Untagged,1.7910,2.8027,-33.1200
+1.1806,True,Pitching Machine Cube,Untagged,2.5246,2.7181,-33.1200,True,Pitching Machine Cube,Untagged,1.8416,2.7369,-33.1200
+1.1917,True,Pitching Machine Cube,Untagged,2.5187,2.7120,-33.1200,True,Pitching Machine Cube,Untagged,1.8357,2.7306,-33.1200
+1.2029,True,Pitching Machine Cube,Untagged,2.5143,2.7623,-33.1200,True,Pitching Machine Cube,Untagged,1.8312,2.7808,-33.1200
+1.2142,True,Wall,Untagged,3.0018,3.4354,-19.2000,True,Pitching Machine Cube,Untagged,1.9035,2.7604,-33.1200
+1.2254,True,Wall,Untagged,2.9471,3.4158,-19.2000,True,Pitching Machine Cube,Untagged,1.8762,2.7505,-33.1200
+1.2367,True,Wall,Untagged,2.9398,3.4051,-19.2000,True,Pitching Machine Cube,Untagged,1.8726,2.7450,-33.1200
+1.2477,True,Wall,Untagged,3.0493,3.3475,-19.2000,True,Pitching Machine Cube,Untagged,1.9271,2.7161,-33.1200
+1.2588,True,Wall,Untagged,3.0422,3.3404,-19.2000,True,Pitching Machine Cube,Untagged,1.9235,2.7124,-33.1200
+1.2711,True,Wall,Untagged,2.9190,3.3363,-19.2000,True,Pitching Machine Cube,Untagged,1.8622,2.7102,-33.1200
+1.2815,True,Wall,Untagged,2.9935,3.4357,-19.2000,True,Pitching Machine Cube,Untagged,1.8991,2.7595,-33.1200
+1.2920,True,Wall,Untagged,2.9900,3.4410,-19.2000,True,Pitching Machine Cube,Untagged,1.8973,2.7622,-33.1200
+1.3032,True,Wall,Untagged,2.9880,3.4457,-19.2000,True,Pitching Machine Cube,Untagged,1.8963,2.7645,-33.1200
+1.3145,True,Wall,Untagged,2.9863,3.4550,-19.2000,True,Pitching Machine Cube,Untagged,1.8955,2.7693,-33.1200
+1.3255,True,Wall,Untagged,2.9835,3.4546,-19.2000,True,Pitching Machine Cube,Untagged,1.8940,2.7689,-33.1200
+1.3367,True,Pitching Machine Cube,Untagged,2.4014,2.8878,-33.1200,True,Wall,Untagged,1.1921,3.7650,-19.2000
+1.3479,True,Pitching Machine Cube,Untagged,2.4008,2.8854,-33.1200,True,Wall,Untagged,1.1909,3.7600,-19.2000
+1.3591,True,Pitching Machine Cube,Untagged,2.3985,2.8861,-33.1200,True,Wall,Untagged,1.1864,3.7615,-19.2000
+1.3714,True,Pitching Machine Cube,Untagged,2.4056,2.8851,-33.1200,True,Wall,Untagged,1.2007,3.7596,-19.2000
+1.3830,True,Pitching Machine Cube,Untagged,2.4038,2.8838,-33.1200,True,Wall,Untagged,1.1970,3.7572,-19.2000
+1.3941,True,Pitching Machine Cube,Untagged,2.4324,2.9199,-33.1200,True,Pitching Machine Cube,Untagged,1.7487,2.9376,-33.1200
+1.4032,True,Pitching Machine Cube,Untagged,2.4324,2.9199,-33.1200,True,Pitching Machine Cube,Untagged,1.7487,2.9375,-33.1200
+1.4142,True,Pitching Machine Cube,Untagged,2.4924,2.8545,-33.1200,True,Pitching Machine Cube,Untagged,1.8089,2.8720,-33.1200
+1.4255,True,Pitching Machine Cube,Untagged,2.4908,2.8549,-33.1200,True,Pitching Machine Cube,Untagged,1.8074,2.8723,-33.1200
+1.4366,True,Pitching Machine Cube,Untagged,2.4919,2.8557,-33.1200,True,Pitching Machine Cube,Untagged,1.8084,2.8728,-33.1200
+1.4475,True,Pitching Machine Cube,Untagged,2.4910,2.8729,-33.1200,True,Pitching Machine Cube,Untagged,1.8076,2.8900,-33.1200
+1.4609,True,Pitching Machine Cube,Untagged,2.4944,2.8721,-33.1200,True,Pitching Machine Cube,Untagged,1.8110,2.8890,-33.1200
+1.4701,True,Pitching Machine Cube,Untagged,2.4938,2.8733,-33.1200,True,Pitching Machine Cube,Untagged,1.8104,2.8902,-33.1200
+1.4814,True,Pitching Machine Cube,Untagged,2.4741,2.8742,-33.1200,True,Pitching Machine Cube,Untagged,1.7906,2.8909,-33.1200
+1.4918,True,Pitching Machine Cube,Untagged,2.4744,2.8752,-33.1200,True,Pitching Machine Cube,Untagged,1.7909,2.8920,-33.1200
+1.5044,True,Pitching Machine Cube,Untagged,2.4754,2.8809,-33.1200,True,Pitching Machine Cube,Untagged,1.7919,2.8976,-33.1200
+1.5146,True,Pitching Machine Cube,Untagged,2.4698,2.9005,-33.1200,True,Pitching Machine Cube,Untagged,1.7862,2.9172,-33.1200
+1.5258,True,Pitching Machine Cube,Untagged,2.4704,2.9002,-33.1200,True,Pitching Machine Cube,Untagged,1.7868,2.9169,-33.1200
+1.5370,True,Pitching Machine Cube,Untagged,2.4712,2.9022,-33.1200,True,Pitching Machine Cube,Untagged,1.7876,2.9189,-33.1200
+1.5480,True,Pitching Machine Cube,Untagged,2.4800,2.8945,-33.1200,True,Pitching Machine Cube,Untagged,1.7965,2.9112,-33.1200
+1.5591,True,Pitching Machine Cube,Untagged,2.4812,2.8788,-33.1200,True,Pitching Machine Cube,Untagged,1.7977,2.8954,-33.1200
+1.5703,True,Pitching Machine Cube,Untagged,2.4932,2.8478,-33.1200,True,Pitching Machine Cube,Untagged,1.8098,2.8646,-33.1200
+1.5815,True,Pitching Machine Cube,Untagged,2.4947,2.8463,-33.1200,True,Pitching Machine Cube,Untagged,1.8113,2.8631,-33.1200
+1.5935,True,Pitching Machine Cube,Untagged,2.4961,2.8462,-33.1200,True,Pitching Machine Cube,Untagged,1.8127,2.8631,-33.1200
+1.6039,True,Pitching Machine Cube,Untagged,2.5054,2.8757,-33.1200,True,Pitching Machine Cube,Untagged,1.8219,2.8926,-33.1200
+1.6149,True,Pitching Machine Cube,Untagged,2.5025,2.8889,-33.1200,True,Pitching Machine Cube,Untagged,1.8189,2.9057,-33.1200
+1.6263,True,Pitching Machine Cube,Untagged,2.4931,2.8891,-33.1200,True,Pitching Machine Cube,Untagged,1.8095,2.9057,-33.1200
+1.6373,True,Pitching Machine Cube,Untagged,2.4925,2.8869,-33.1200,True,Pitching Machine Cube,Untagged,1.8089,2.9034,-33.1200
+1.6482,True,Pitching Machine Cube,Untagged,2.4910,2.8865,-33.1200,True,Pitching Machine Cube,Untagged,1.8074,2.9029,-33.1200
+1.6595,True,Pitching Machine Cube,Untagged,2.4387,2.8758,-33.1200,True,Pitching Machine Cube,Untagged,1.7552,2.8922,-33.1200
+1.6705,True,Pitching Machine Cube,Untagged,2.4902,2.8775,-33.1200,True,Pitching Machine Cube,Untagged,1.8067,2.8938,-33.1200
+1.6820,True,Pitching Machine Cube,Untagged,2.5041,2.8726,-33.1200,True,Pitching Machine Cube,Untagged,1.8206,2.8888,-33.1200
+1.6930,True,Pitching Machine Cube,Untagged,2.5382,2.8555,-33.1200,True,Pitching Machine Cube,Untagged,1.8547,2.8716,-33.1200
+1.7041,True,Pitching Machine Cube,Untagged,2.5365,2.8574,-33.1200,True,Pitching Machine Cube,Untagged,1.8530,2.8735,-33.1200
+1.7153,True,Pitching Machine Cube,Untagged,2.5325,2.8573,-33.1200,True,Pitching Machine Cube,Untagged,1.8490,2.8732,-33.1200
+1.7271,True,Wall,Untagged,2.9244,3.7419,-19.2000,True,Pitching Machine Cube,Untagged,1.8637,2.9104,-33.1200
+1.7379,True,Pitching Machine Cube,Untagged,2.4806,2.9096,-33.1200,True,Pitching Machine Cube,Untagged,1.7969,2.9255,-33.1200
+1.7488,True,Pitching Machine Cube,Untagged,2.4786,2.9105,-33.1200,True,Pitching Machine Cube,Untagged,1.7950,2.9265,-33.1200
+1.7600,True,Pitching Machine Cube,Untagged,2.4768,2.9114,-33.1200,True,Pitching Machine Cube,Untagged,1.7931,2.9275,-33.1200
+1.7709,True,Pitching Machine Cube,Untagged,2.3587,2.9147,-33.1200,True,Wall,Untagged,1.1068,3.8166,-19.2000
+1.7824,True,Wall,Untagged,0.2772,3.7354,-19.2000,True,Wall,Untagged,-1.1687,3.7701,-19.2000
+1.7935,True,Wall,Untagged,-2.4012,3.7943,-19.2000,True,Wall,Untagged,-3.8683,3.8296,-19.2000
+1.8045,True,Wall,Untagged,-2.4020,3.8083,-19.2000,True,Wall,Untagged,-3.8692,3.8438,-19.2000
+1.8158,True,Wall,Untagged,-2.4059,3.8193,-19.2000,True,Wall,Untagged,-3.8732,3.8546,-19.2000
+1.8271,True,Wall,Untagged,-8.8116,3.5374,-19.2000,True,Wall,Untagged,-10.3815,3.5759,-19.2000
+1.8381,True,Wall,Untagged,-8.8074,3.5372,-19.2000,True,Wall,Untagged,-10.3770,3.5760,-19.2000
+1.8510,True,Wall,Untagged,-13.3148,1.2079,-19.2000,True,Wall,Untagged,-14.9953,1.2496,-19.2000
+1.8604,True,Wall,Untagged,-13.3301,0.3255,-19.2000,True,Wall,Untagged,-15.0127,0.3674,-19.2000
+1.8710,True,Wall,Untagged,-13.3163,0.3222,-19.2000,True,Wall,Untagged,-14.9982,0.3639,-19.2000
+1.8820,True,Wall,Untagged,-13.2177,0.3236,-19.2000,True,Wall,Untagged,-14.8966,0.3652,-19.2000
+1.8931,True,Wall,Untagged,-10.5553,3.1346,-19.2000,True,Wall,Untagged,-12.1632,3.1744,-19.2000
+1.9042,True,Wall,Untagged,-9.6119,3.4860,-19.2000,True,Wall,Untagged,-11.1984,3.5252,-19.2000
+1.9156,True,Wall,Untagged,-9.6092,3.4761,-19.2000,True,Wall,Untagged,-11.1956,3.5152,-19.2000
+1.9274,True,Wall,Untagged,-9.6078,3.4634,-19.2000,True,Wall,Untagged,-11.1940,3.5022,-19.2000
+1.9384,True,Wall,Untagged,-9.5552,3.1464,-19.2000,True,Wall,Untagged,-11.1395,3.1852,-19.2000
+1.9490,True,Wall,Untagged,-9.6070,3.3287,-19.2000,True,Wall,Untagged,-11.1929,3.3677,-19.2000
+1.9604,True,Wall,Untagged,-9.6567,3.1443,-19.2000,True,Wall,Untagged,-11.2433,3.1837,-19.2000
+1.9713,True,Wall,Untagged,-9.6594,3.0212,-19.2000,True,Wall,Untagged,-11.2458,3.0606,-19.2000
+1.9826,True,Wall,Untagged,-9.6621,3.0248,-19.2000,True,Wall,Untagged,-11.2487,3.0642,-19.2000
+1.9935,True,Wall,Untagged,-9.6664,2.8958,-19.2000,True,Wall,Untagged,-11.2529,2.9353,-19.2000
+2.0049,True,Wall,Untagged,-9.6744,2.8957,-19.2000,True,Wall,Untagged,-11.2613,2.9352,-19.2000
+2.0166,True,Wall,Untagged,-9.8603,2.8932,-19.2000,True,Wall,Untagged,-11.4515,2.9331,-19.2000
+2.0273,True,Wall,Untagged,-9.8661,2.8760,-19.2000,True,Wall,Untagged,-11.4575,2.9160,-19.2000
+2.0386,True,Wall,Untagged,-9.8673,2.8744,-19.2000,True,Wall,Untagged,-11.4588,2.9146,-19.2000
+2.0496,True,Wall,Untagged,-9.7744,2.6994,-19.2000,True,Wall,Untagged,-11.3634,2.7392,-19.2000
+2.0608,True,Wall,Untagged,-9.7734,2.6915,-19.2000,True,Wall,Untagged,-11.3624,2.7313,-19.2000
+2.0718,True,Wall,Untagged,-9.7769,2.6626,-19.2000,True,Wall,Untagged,-11.3661,2.7024,-19.2000
+2.0830,True,Wall,Untagged,-9.7770,2.6671,-19.2000,True,Wall,Untagged,-11.3662,2.7070,-19.2000
+2.0943,True,Wall,Untagged,-9.8322,2.5939,-19.2000,True,Wall,Untagged,-11.4225,2.6340,-19.2000
+2.1051,True,Wall,Untagged,-9.8325,2.5882,-19.2000,True,Wall,Untagged,-11.4229,2.6285,-19.2000
+2.1163,True,Wall,Untagged,-9.8319,2.5867,-19.2000,True,Wall,Untagged,-11.4222,2.6270,-19.2000
+2.1277,True,Wall,Untagged,-9.8293,2.5706,-19.2000,True,Wall,Untagged,-11.4195,2.6107,-19.2000
+2.1386,True,Wall,Untagged,-9.8214,2.5322,-19.2000,True,Wall,Untagged,-11.4113,2.5720,-19.2000
+2.1499,True,Wall,Untagged,-9.8159,2.5403,-19.2000,True,Wall,Untagged,-11.4055,2.5796,-19.2000
+2.1610,True,Wall,Untagged,-9.8044,2.5443,-19.2000,True,Wall,Untagged,-11.3936,2.5832,-19.2000
+2.1719,True,Wall,Untagged,-9.8082,2.5447,-19.2000,True,Wall,Untagged,-11.3974,2.5834,-19.2000
+2.1830,True,Wall,Untagged,-9.9326,2.4319,-19.2000,True,Wall,Untagged,-11.5245,2.4706,-19.2000
+2.1945,True,Wall,Untagged,-9.9268,2.4295,-19.2000,True,Wall,Untagged,-11.5184,2.4684,-19.2000
+2.2055,True,Wall,Untagged,-9.9223,2.4276,-19.2000,True,Wall,Untagged,-11.5137,2.4666,-19.2000
+2.2168,True,Wall,Untagged,-9.6659,2.3979,-19.2000,True,Wall,Untagged,-11.2513,2.4372,-19.2000
+2.2276,True,Wall,Untagged,-9.6550,2.4051,-19.2000,True,Wall,Untagged,-11.2399,2.4445,-19.2000
+2.2391,True,Wall,Untagged,-9.6059,2.4756,-19.2000,True,Wall,Untagged,-11.1895,2.5151,-19.2000
+2.2501,True,Wall,Untagged,-9.5920,2.4813,-19.2000,True,Wall,Untagged,-11.1750,2.5209,-19.2000
+2.2613,True,Wall,Untagged,-9.4992,3.1029,-19.2000,True,Wall,Untagged,-11.0808,3.1425,-19.2000
+2.2723,True,Wall,Untagged,-9.4928,3.1065,-19.2000,True,Wall,Untagged,-11.0742,3.1464,-19.2000
+2.2835,True,Wall,Untagged,-9.4824,3.1016,-19.2000,True,Wall,Untagged,-11.0633,3.1414,-19.2000
+2.2947,True,Wall,Untagged,-9.2433,3.0299,-19.2000,True,Wall,Untagged,-10.8183,3.0699,-19.2000
+2.3058,True,Wall,Untagged,-9.4531,2.9183,-19.2000,True,Wall,Untagged,-11.0322,2.9581,-19.2000
+2.3170,True,Wall,Untagged,-9.4370,2.9236,-19.2000,True,Wall,Untagged,-11.0154,2.9631,-19.2000
+2.3280,True,Wall,Untagged,-9.2390,2.9222,-19.2000,True,Wall,Untagged,-10.8125,2.9613,-19.2000
+2.3396,True,Wall,Untagged,-9.2296,2.9141,-19.2000,True,Wall,Untagged,-10.8027,2.9528,-19.2000
+2.3504,True,Wall,Untagged,-9.2184,2.7985,-19.2000,True,Wall,Untagged,-10.7909,2.8370,-19.2000
+2.3617,True,Wall,Untagged,-9.2163,2.9179,-19.2000,True,Wall,Untagged,-10.7888,2.9559,-19.2000
+2.3725,True,Wall,Untagged,-9.2068,2.9278,-19.2000,True,Wall,Untagged,-10.7789,2.9659,-19.2000
+2.3838,True,Wall,Untagged,-9.2548,2.9422,-19.2000,True,Wall,Untagged,-10.8278,2.9798,-19.2000
+2.3948,True,Wall,Untagged,-9.2426,3.0343,-19.2000,True,Wall,Untagged,-10.8152,3.0716,-19.2000
+2.4061,True,Wall,Untagged,-8.5429,3.2294,-19.2000,True,Wall,Untagged,-10.1008,3.2660,-19.2000
+2.4172,True,Wall,Untagged,-8.5283,3.2218,-19.2000,True,Wall,Untagged,-10.0855,3.2578,-19.2000
+2.4282,True,Wall,Untagged,-4.7539,3.2813,-19.2000,True,Wall,Untagged,-6.2453,3.3157,-19.2000
+2.4401,True,Wall,Untagged,-4.7541,3.2614,-19.2000,True,Wall,Untagged,-6.2455,3.2957,-19.2000
+2.4508,True,Wall,Untagged,-1.4094,3.2015,-19.2000,True,Wall,Untagged,-2.8634,3.2351,-19.2000
+2.4616,True,Wall,Untagged,1.2840,3.1218,-19.2000,True,Wall,Untagged,-0.1552,3.1546,-19.2000
+2.4728,True,Pitching Machine Cylinder,Untagged,1.9747,2.5740,-33.1811,True,Wall,Untagged,0.3341,3.1360,-19.2000
+2.4842,True,Pitching Machine Cylinder,Untagged,1.9719,2.5738,-33.1764,True,Wall,Untagged,0.3288,3.1355,-19.2000
+2.4957,True,Pitching Machine Cylinder,Untagged,1.9652,2.5705,-33.1601,True,Wall,Untagged,0.3156,3.1282,-19.2000
+2.5064,True,Pitching Machine Cylinder,Untagged,1.9651,2.6121,-33.1893,True,Wall,Untagged,0.3145,3.2151,-19.2000
+2.5175,True,Pitching Machine Cylinder,Untagged,1.9860,2.6039,-33.2152,True,Wall,Untagged,0.3561,3.2008,-19.2000
+2.5284,True,Pitching Machine Cylinder,Untagged,1.9787,2.5784,-33.1910,True,Wall,Untagged,0.3422,3.1474,-19.2000
+2.5403,True,Pitching Machine Cylinder,Untagged,1.9717,2.5749,-33.1767,True,Wall,Untagged,0.3284,3.1396,-19.2000
+2.5507,True,Pitching Machine Cube,Untagged,1.9609,2.5173,-33.1200,True,Wall,Untagged,0.3087,3.0202,-19.2000
+2.5618,True,Pitching Machine Cylinder,Untagged,1.9637,2.5523,-33.1328,True,Wall,Untagged,0.3138,3.0917,-19.2000
+2.5730,True,Pitching Machine Cylinder,Untagged,2.0085,2.5457,-33.2044,True,Wall,Untagged,0.4024,3.0841,-19.2000
+2.5841,True,Pitching Machine Cylinder,Untagged,2.0044,2.5427,-33.1968,True,Wall,Untagged,0.3943,3.0784,-19.2000
+2.5953,True,Pitching Machine Cylinder,Untagged,1.9984,2.5402,-33.1862,True,Wall,Untagged,0.3825,3.0723,-19.2000
+2.6064,True,Pitching Machine Cylinder,Untagged,2.0118,2.5630,-33.2213,True,Wall,Untagged,0.4086,3.1213,-19.2000
+2.6175,True,Pitching Machine Cylinder,Untagged,2.0088,2.5618,-33.2173,True,Wall,Untagged,0.4026,3.1186,-19.2000
+2.6285,True,Pitching Machine Cylinder,Untagged,2.0008,2.5609,-33.2077,True,Wall,Untagged,0.3867,3.1159,-19.2000
+2.6403,True,Pitching Machine Cylinder,Untagged,1.9994,2.5694,-33.2122,True,Wall,Untagged,0.3837,3.1334,-19.2000
+2.6510,True,Pitching Machine Cylinder,Untagged,2.0016,2.5661,-33.2124,True,Wall,Untagged,0.3881,3.1264,-19.2000
+2.6624,True,Pitching Machine Cylinder,Untagged,2.0012,2.5661,-33.2120,True,Wall,Untagged,0.3874,3.1265,-19.2000
+2.6733,True,Pitching Machine Cylinder,Untagged,2.0357,2.5634,-33.2427,True,Wall,Untagged,0.4565,3.1231,-19.2000
+2.6845,True,Pitching Machine Cylinder,Untagged,2.0456,2.5398,-33.2343,True,Wall,Untagged,0.4769,3.0745,-19.2000
+2.6956,True,Pitching Machine Cylinder,Untagged,2.0679,2.5379,-33.2475,True,Wall,Untagged,0.5219,3.0712,-19.2000
+2.7066,True,Pitching Machine Cylinder,Untagged,2.0700,2.5377,-33.2484,True,Wall,Untagged,0.5261,3.0706,-19.2000
+2.7180,True,Pitching Machine Cylinder,Untagged,2.1007,2.5388,-33.2631,True,Wall,Untagged,0.5882,3.0741,-19.2000
+2.7290,True,Pitching Machine Cylinder,Untagged,2.1056,2.5859,-33.2886,True,Wall,Untagged,0.5979,3.1719,-19.2000
+2.7403,True,Pitching Machine Cylinder,Untagged,2.1095,2.5887,-33.2907,True,Wall,Untagged,0.6056,3.1782,-19.2000
+2.7514,True,Pitching Machine Cylinder,Untagged,2.1000,2.5708,-33.2805,True,Wall,Untagged,0.5865,3.1411,-19.2000
+2.7627,True,Pitching Machine Cylinder,Untagged,2.0820,2.5936,-33.2830,True,Wall,Untagged,0.5497,3.1879,-19.2000
+2.7734,True,Pitching Machine Cylinder,Untagged,2.0834,2.5930,-33.2834,True,Wall,Untagged,0.5526,3.1866,-19.2000
+2.7851,True,Pitching Machine Cylinder,Untagged,2.0848,2.6197,-33.2915,True,Wall,Untagged,0.5553,3.2417,-19.2000
+2.7960,True,Pitching Machine Cylinder,Untagged,2.1045,2.6235,-33.2989,True,Wall,Untagged,0.5954,3.2502,-19.2000
+2.8073,True,Pitching Machine Cylinder,Untagged,2.3188,2.6210,-33.2601,True,Wall,Untagged,1.0307,3.2420,-19.2000
+2.8181,True,Pitching Machine Cylinder,Untagged,2.3174,2.6233,-33.2617,True,Wall,Untagged,1.0279,3.2470,-19.2000
+2.8292,True,Pitching Machine Cylinder,Untagged,2.3170,2.6197,-33.2611,True,Wall,Untagged,1.0272,3.2401,-19.2000
+2.8410,True,Pitching Machine Cube,Untagged,2.4451,2.6967,-33.1200,True,Pitching Machine Cube,Untagged,1.7621,2.7149,-33.1200
+2.8513,True,Pitching Machine Cube,Untagged,2.5326,2.7086,-33.1200,True,Pitching Machine Cube,Untagged,1.8496,2.7269,-33.1200
+2.8628,True,Pitching Machine Cube,Untagged,2.5264,2.7241,-33.1200,True,Pitching Machine Cube,Untagged,1.8434,2.7424,-33.1200
+2.8737,True,Pitching Machine Cube,Untagged,2.5248,2.7266,-33.1200,True,Pitching Machine Cube,Untagged,1.8417,2.7449,-33.1200
+2.8848,True,Pitching Machine Cube,Untagged,2.5238,2.7452,-33.1200,True,Pitching Machine Cube,Untagged,1.8407,2.7633,-33.1200
+2.8959,True,Pitching Machine Cube,Untagged,2.5263,2.7360,-33.1200,True,Pitching Machine Cube,Untagged,1.8433,2.7542,-33.1200
+2.9072,True,Pitching Machine Cube,Untagged,2.5134,2.7483,-33.1200,True,Pitching Machine Cube,Untagged,1.8303,2.7665,-33.1200
+2.9185,True,Pitching Machine Cube,Untagged,2.5133,2.7502,-33.1200,True,Pitching Machine Cube,Untagged,1.8302,2.7683,-33.1200
+2.9297,True,Wall,Untagged,2.9390,3.4443,-19.2000,True,Pitching Machine Cube,Untagged,1.8719,2.7644,-33.1200
+2.9409,True,Wall,Untagged,2.9394,3.4403,-19.2000,True,Pitching Machine Cube,Untagged,1.8721,2.7626,-33.1200
+2.9520,True,Pitching Machine Cube,Untagged,2.5143,2.7467,-33.1200,True,Pitching Machine Cube,Untagged,1.8312,2.7651,-33.1200
+2.9630,True,Pitching Machine Cube,Untagged,2.5088,2.7443,-33.1200,True,Pitching Machine Cube,Untagged,1.8257,2.7628,-33.1200
+2.9742,True,Pitching Machine Cube,Untagged,2.5108,2.7017,-33.1200,True,Pitching Machine Cube,Untagged,1.8278,2.7203,-33.1200
+2.9858,True,Wall,Untagged,2.9346,3.3480,-19.2000,True,Pitching Machine Cube,Untagged,1.8699,2.7170,-33.1200
+2.9969,True,Wall,Untagged,2.9407,3.3461,-19.2000,True,Pitching Machine Cube,Untagged,1.8730,2.7162,-33.1200
+3.0079,True,Wall,Untagged,2.9445,3.3385,-19.2000,True,Pitching Machine Cube,Untagged,1.8749,2.7124,-33.1200
+3.0190,True,Wall,Untagged,3.1250,3.3265,-19.2000,True,Pitching Machine Cylinder,Untagged,1.9664,2.7027,-33.2000
+3.0300,True,Wall,Untagged,3.1306,3.3620,-19.2000,True,Pitching Machine Cylinder,Untagged,1.9691,2.7204,-33.1987
+3.0411,True,Wall,Untagged,3.1323,3.3596,-19.2000,True,Pitching Machine Cylinder,Untagged,1.9700,2.7191,-33.2004
+3.0523,True,Wall,Untagged,3.0469,3.3789,-19.2000,True,Pitching Machine Cube,Untagged,1.9259,2.7327,-33.1200
+3.0637,True,Wall,Untagged,3.0519,3.3806,-19.2000,True,Pitching Machine Cube,Untagged,1.9284,2.7335,-33.1200
+3.0740,True,Wall,Untagged,3.0765,3.4100,-19.2000,True,Pitching Machine Cube,Untagged,1.9406,2.7481,-33.1200
+3.0851,True,Wall,Untagged,3.0810,3.4106,-19.2000,True,Pitching Machine Cylinder,Untagged,1.9429,2.7484,-33.1215
+3.0966,True,Wall,Untagged,3.0865,3.3601,-19.2000,True,Pitching Machine Cylinder,Untagged,1.9464,2.7214,-33.1554
+3.1076,True,Wall,Untagged,3.0916,3.3614,-19.2000,True,Pitching Machine Cylinder,Untagged,1.9491,2.7218,-33.1616
+3.1186,True,Wall,Untagged,3.0601,3.4024,-19.2000,True,Pitching Machine Cube,Untagged,1.9325,2.7442,-33.1200
+3.1300,True,Wall,Untagged,3.0624,3.4107,-19.2000,True,Pitching Machine Cube,Untagged,1.9336,2.7484,-33.1200
+3.1413,True,Wall,Untagged,3.0654,3.4379,-19.2000,True,Pitching Machine Cube,Untagged,1.9351,2.7619,-33.1200
+3.1525,True,Wall,Untagged,3.0680,3.4441,-19.2000,True,Pitching Machine Cube,Untagged,1.9364,2.7650,-33.1200
+3.1635,True,Wall,Untagged,3.0647,3.4440,-19.2000,True,Pitching Machine Cube,Untagged,1.9348,2.7649,-33.1200
+3.1748,True,Wall,Untagged,3.0512,3.4434,-19.2000,True,Pitching Machine Cube,Untagged,1.9280,2.7644,-33.1200
+3.1859,True,Wall,Untagged,2.9815,3.2630,-19.2000,True,Pitching Machine Cube,Untagged,1.8935,2.6745,-33.1200
+3.1969,True,Pitching Machine Cube,Untagged,1.9072,1.8819,-33.1200,True,Wall,Untagged,0.2010,1.7486,-19.2000
+3.2081,True,Wall,Untagged,1.6285,1.3135,-19.2000,True,Wall,Untagged,0.1909,1.3530,-19.2000
+3.2194,True,Wall,Untagged,1.6217,1.3095,-19.2000,True,Wall,Untagged,0.1840,1.3488,-19.2000
+3.2304,True,Wall,Untagged,1.6195,1.3012,-19.2000,True,Wall,Untagged,0.1818,1.3406,-19.2000
+3.2413,True,Wall,Untagged,1.6173,1.2938,-19.2000,True,Wall,Untagged,0.1796,1.3332,-19.2000
+3.2532,True,Pitching Machine Cube,Untagged,1.9317,1.7205,-33.1200,True,Wall,Untagged,0.2500,1.4251,-19.2000
+3.2639,True,Pitching Machine Cube,Untagged,1.9308,1.7321,-33.1200,True,Wall,Untagged,0.2483,1.4485,-19.2000
+3.2751,True,Pitching Machine Cube,Untagged,1.9310,1.7290,-33.1200,True,Wall,Untagged,0.2487,1.4422,-19.2000
+3.2861,True,Pitching Machine Cube,Untagged,1.9304,1.7256,-33.1200,True,Wall,Untagged,0.2474,1.4354,-19.2000
+3.2970,True,Pitching Machine Cube,Untagged,1.9536,1.7219,-33.1200,True,Wall,Untagged,0.2940,1.4278,-19.2000
+3.3081,True,Pitching Machine Cube,Untagged,1.9435,1.7220,-33.1200,True,Wall,Untagged,0.2738,1.4283,-19.2000
+3.3197,True,Pitching Machine Cube,Untagged,1.9429,1.7235,-33.1200,True,Wall,Untagged,0.2727,1.4312,-19.2000
+3.3306,True,Pitching Machine Cube,Untagged,1.9432,1.7231,-33.1200,True,Wall,Untagged,0.2732,1.4309,-19.2000
+3.3421,True,Wall,Untagged,1.7927,1.3471,-19.2000,True,Wall,Untagged,0.3554,1.3874,-19.2000
+3.3528,True,Wall,Untagged,1.8458,1.3395,-19.2000,True,Wall,Untagged,0.4086,1.3800,-19.2000
+3.3641,True,Pitching Machine Cube,Untagged,2.0376,1.7076,-33.1200,True,Wall,Untagged,0.4632,1.3999,-19.2000
+3.3753,True,Pitching Machine Cube,Untagged,2.0356,1.7427,-33.1200,True,Wall,Untagged,0.4591,1.4697,-19.2000
+3.3861,True,Pitching Machine Cube,Untagged,2.0369,1.7420,-33.1200,True,Wall,Untagged,0.4618,1.4681,-19.2000
+3.3975,True,Pitching Machine Cube,Untagged,2.0374,1.7407,-33.1200,True,Wall,Untagged,0.4629,1.4653,-19.2000
+3.4085,True,Pitching Machine Cube,Untagged,1.9905,1.7639,-33.1200,True,Wall,Untagged,0.3686,1.5116,-19.2000
+3.4197,True,Pitching Machine Cube,Untagged,1.9927,1.7651,-33.1200,True,Wall,Untagged,0.3730,1.5139,-19.2000
+3.4307,True,Wall,Untagged,1.8051,1.1801,-19.2000,True,Wall,Untagged,0.3676,1.2188,-19.2000
+3.4422,True,Wall,Untagged,1.8043,1.1798,-19.2000,True,Wall,Untagged,0.3668,1.2183,-19.2000
+3.4535,True,Pitching Machine Cube,Untagged,2.0190,1.7393,-33.1200,True,Wall,Untagged,0.4259,1.4618,-19.2000
+3.4643,True,Wall,Untagged,1.8560,1.1786,-19.2000,True,Wall,Untagged,0.4186,1.2169,-19.2000
+3.4754,True,Wall,Untagged,1.8513,1.2708,-19.2000,True,Wall,Untagged,0.4140,1.3090,-19.2000
+3.4863,True,Wall,Untagged,1.8497,1.2759,-19.2000,True,Wall,Untagged,0.4124,1.3142,-19.2000
+3.4978,True,Wall,Untagged,1.8511,1.2887,-19.2000,True,Wall,Untagged,0.4139,1.3272,-19.2000
+3.5087,True,Wall,Untagged,1.8175,1.2917,-19.2000,True,Wall,Untagged,0.3802,1.3305,-19.2000
+3.5197,True,Wall,Untagged,1.8128,1.2944,-19.2000,True,Wall,Untagged,0.3755,1.3334,-19.2000
+3.5309,True,Wall,Untagged,1.8215,1.2736,-19.2000,True,Wall,Untagged,0.3842,1.3129,-19.2000
+3.5428,True,Wall,Untagged,1.8760,1.2747,-19.2000,True,Wall,Untagged,0.4387,1.3142,-19.2000
+3.5535,True,Wall,Untagged,1.8726,1.2819,-19.2000,True,Wall,Untagged,0.4354,1.3217,-19.2000
+3.5645,True,Pitching Machine Cube,Untagged,2.0389,1.7142,-33.1200,True,Wall,Untagged,0.4657,1.4129,-19.2000
+3.5755,True,Pitching Machine Cube,Untagged,2.0413,1.7536,-33.1200,True,Wall,Untagged,0.4706,1.4921,-19.2000
+3.5868,True,Pitching Machine Cube,Untagged,2.0407,1.7521,-33.1200,True,Wall,Untagged,0.4693,1.4896,-19.2000
+3.5980,True,Pitching Machine Cube,Untagged,2.0393,1.7500,-33.1200,True,Wall,Untagged,0.4665,1.4856,-19.2000
+3.6094,True,Pitching Machine Cube,Untagged,2.0407,1.7454,-33.1200,True,Wall,Untagged,0.4693,1.4765,-19.2000
+3.6203,True,Pitching Machine Cube,Untagged,2.0406,1.7217,-33.1200,True,Wall,Untagged,0.4691,1.4290,-19.2000
+3.6311,True,Pitching Machine Cube,Untagged,2.0578,1.7093,-33.1200,True,Wall,Untagged,0.5036,1.4041,-19.2000
+3.6426,True,Wall,Untagged,1.9358,1.2490,-19.2000,True,Wall,Untagged,0.4986,1.2897,-19.2000
+3.6538,True,Wall,Untagged,1.9497,1.2319,-19.2000,True,Wall,Untagged,0.5125,1.2726,-19.2000
+3.6646,True,Wall,Untagged,1.9490,1.2333,-19.2000,True,Wall,Untagged,0.5119,1.2740,-19.2000
+3.6761,True,Wall,Untagged,1.9522,1.2345,-19.2000,True,Wall,Untagged,0.5151,1.2753,-19.2000
+3.6872,True,Wall,Untagged,1.8896,1.2084,-19.2000,True,Wall,Untagged,0.4523,1.2493,-19.2000
+3.6981,True,Wall,Untagged,1.9615,1.2001,-19.2000,True,Wall,Untagged,0.5244,1.2410,-19.2000
+3.7092,True,Wall,Untagged,1.9268,1.2231,-19.2000,True,Wall,Untagged,0.4897,1.2640,-19.2000
+3.7203,True,Wall,Untagged,1.9295,1.2124,-19.2000,True,Wall,Untagged,0.4923,1.2533,-19.2000
+3.7314,True,Wall,Untagged,1.9323,1.2940,-19.2000,True,Wall,Untagged,0.4953,1.3353,-19.2000
+3.7425,True,Wall,Untagged,1.9142,1.2866,-19.2000,True,Wall,Untagged,0.4771,1.3279,-19.2000
+3.7540,True,Wall,Untagged,1.9158,1.2888,-19.2000,True,Wall,Untagged,0.4788,1.3304,-19.2000
+3.7651,True,Wall,Untagged,1.8658,1.2932,-19.2000,True,Wall,Untagged,0.4287,1.3348,-19.2000
+3.7763,True,Wall,Untagged,1.8672,1.2952,-19.2000,True,Wall,Untagged,0.4301,1.3369,-19.2000
+3.7882,True,Wall,Untagged,1.8623,1.2995,-19.2000,True,Wall,Untagged,0.4252,1.3412,-19.2000
+3.7985,True,Wall,Untagged,1.8667,1.2513,-19.2000,True,Wall,Untagged,0.4295,1.2931,-19.2000
+3.8094,True,Wall,Untagged,1.8614,1.2321,-19.2000,True,Wall,Untagged,0.4242,1.2736,-19.2000
+3.8207,True,Wall,Untagged,1.8622,1.2263,-19.2000,True,Wall,Untagged,0.4250,1.2675,-19.2000
+3.8316,True,Wall,Untagged,1.8864,1.2223,-19.2000,True,Wall,Untagged,0.4492,1.2633,-19.2000
+3.8430,True,Wall,Untagged,1.8885,1.2212,-19.2000,True,Wall,Untagged,0.4513,1.2621,-19.2000
+3.8543,True,Wall,Untagged,1.9082,1.2215,-19.2000,True,Wall,Untagged,0.4710,1.2623,-19.2000
+3.8651,True,Wall,Untagged,1.9807,1.2869,-19.2000,True,Wall,Untagged,0.5437,1.3278,-19.2000
+3.8764,True,Wall,Untagged,1.9814,1.2864,-19.2000,True,Wall,Untagged,0.5445,1.3272,-19.2000
+3.8875,True,Wall,Untagged,1.9930,1.2896,-19.2000,True,Wall,Untagged,0.5561,1.3305,-19.2000
+3.8983,True,Wall,Untagged,1.9889,1.2873,-19.2000,True,Wall,Untagged,0.5519,1.3280,-19.2000
+3.9098,True,Wall,Untagged,1.9852,1.2870,-19.2000,True,Wall,Untagged,0.5482,1.3278,-19.2000
+3.9208,True,Pitching Machine Cube,Untagged,2.0984,1.7181,-33.1200,True,Wall,Untagged,0.5852,1.4217,-19.2000
+3.9325,True,Pitching Machine Cube,Untagged,2.2411,2.2742,-33.1200,True,Wall,Untagged,0.8723,2.5374,-19.2000
+3.9438,True,Pitching Machine Cube,Untagged,2.2390,2.2719,-33.1200,True,Wall,Untagged,0.8680,2.5326,-19.2000
+3.9559,True,Pitching Machine Cylinder,Untagged,2.2918,2.5915,-33.2685,True,Wall,Untagged,0.9756,3.1857,-19.2000
+3.9658,True,Pitching Machine Cylinder,Untagged,2.3863,2.6448,-33.1910,True,Wall,Untagged,1.1649,3.2871,-19.2000
+3.9774,True,Pitching Machine Cylinder,Untagged,2.4003,2.6410,-33.1632,True,Wall,Untagged,1.1922,3.2769,-19.2000
+3.9880,True,Pitching Machine Cube,Untagged,2.4376,2.5868,-33.1200,True,Pitching Machine Cube,Untagged,1.7549,2.6056,-33.1200
+3.9989,True,Pitching Machine Cube,Untagged,2.4359,2.5855,-33.1200,True,Pitching Machine Cube,Untagged,1.7532,2.6044,-33.1200
+4.0101,True,Pitching Machine Cube,Untagged,2.4355,2.5852,-33.1200,True,Pitching Machine Cube,Untagged,1.7528,2.6040,-33.1200
+4.0214,True,Pitching Machine Cube,Untagged,2.4377,2.5886,-33.1200,True,Pitching Machine Cube,Untagged,1.7550,2.6076,-33.1200
+4.0322,True,Pitching Machine Cube,Untagged,2.4753,2.6067,-33.1200,True,Pitching Machine Cube,Untagged,1.7926,2.6256,-33.1200
+4.0436,True,Pitching Machine Cube,Untagged,2.4765,2.6128,-33.1200,True,Pitching Machine Cube,Untagged,1.7937,2.6317,-33.1200
+4.0551,True,Pitching Machine Cube,Untagged,2.4306,2.6093,-33.1200,True,Pitching Machine Cube,Untagged,1.7478,2.6282,-33.1200
+4.0659,True,Pitching Machine Cube,Untagged,2.4307,2.6099,-33.1200,True,Pitching Machine Cube,Untagged,1.7479,2.6287,-33.1200
+4.0771,True,Pitching Machine Cube,Untagged,2.4299,2.6108,-33.1200,True,Pitching Machine Cube,Untagged,1.7472,2.6297,-33.1200
+4.0878,True,Pitching Machine Cube,Untagged,2.4304,2.6221,-33.1200,True,Pitching Machine Cube,Untagged,1.7476,2.6411,-33.1200
+4.0990,True,Pitching Machine Cube,Untagged,2.4295,2.5856,-33.1200,True,Pitching Machine Cube,Untagged,1.7468,2.6047,-33.1200
+4.1100,True,Pitching Machine Cube,Untagged,2.4535,2.6171,-33.1200,True,Pitching Machine Cube,Untagged,1.7707,2.6363,-33.1200
+4.1213,True,Pitching Machine Cube,Untagged,2.4540,2.6140,-33.1200,True,Pitching Machine Cube,Untagged,1.7713,2.6333,-33.1200
+4.1319,True,Pitching Machine Cube,Untagged,2.4111,2.5770,-33.1200,True,Wall,Untagged,1.2129,3.1457,-19.2000
+4.1435,True,Pitching Machine Cube,Untagged,2.4094,2.6022,-33.1200,True,Wall,Untagged,1.2095,3.1957,-19.2000
+4.1550,True,Pitching Machine Cube,Untagged,2.4097,2.6007,-33.1200,True,Wall,Untagged,1.2100,3.1923,-19.2000
+4.1658,True,Pitching Machine Cube,Untagged,2.4094,2.6015,-33.1200,True,Wall,Untagged,1.2094,3.1934,-19.2000
+4.1775,True,Pitching Machine Cylinder,Untagged,2.3973,2.5991,-33.1478,True,Wall,Untagged,1.1860,3.1904,-19.2000
+4.1881,True,Pitching Machine Cylinder,Untagged,2.3964,2.5965,-33.1480,True,Wall,Untagged,1.1841,3.1851,-19.2000
+4.1992,True,Pitching Machine Cube,Untagged,2.4437,2.5877,-33.1200,True,Pitching Machine Cube,Untagged,1.7610,2.6060,-33.1200
+4.2103,True,Pitching Machine Cube,Untagged,2.4417,2.5815,-33.1200,True,Pitching Machine Cube,Untagged,1.7591,2.5997,-33.1200
+4.2216,True,Pitching Machine Cube,Untagged,2.4470,2.5837,-33.1200,True,Pitching Machine Cube,Untagged,1.7643,2.6020,-33.1200
+4.2327,True,Pitching Machine Cube,Untagged,2.4443,2.5838,-33.1200,True,Pitching Machine Cube,Untagged,1.7616,2.6020,-33.1200
+4.2440,True,Pitching Machine Cube,Untagged,2.4600,2.6026,-33.1200,True,Pitching Machine Cube,Untagged,1.7773,2.6208,-33.1200
+4.2552,True,Pitching Machine Cube,Untagged,2.4603,2.6092,-33.1200,True,Pitching Machine Cube,Untagged,1.7775,2.6275,-33.1200
+4.2659,True,Pitching Machine Cube,Untagged,2.4601,2.6154,-33.1200,True,Pitching Machine Cube,Untagged,1.7773,2.6337,-33.1200
+4.2775,True,Pitching Machine Cube,Untagged,2.4611,2.6188,-33.1200,True,Pitching Machine Cube,Untagged,1.7784,2.6372,-33.1200
+4.2884,True,Pitching Machine Cube,Untagged,2.4603,2.6195,-33.1200,True,Pitching Machine Cube,Untagged,1.7775,2.6378,-33.1200
+4.2997,True,Pitching Machine Cube,Untagged,2.4793,2.5838,-33.1200,True,Pitching Machine Cube,Untagged,1.7966,2.6021,-33.1200
+4.3105,True,Pitching Machine Cube,Untagged,2.4772,2.5806,-33.1200,True,Pitching Machine Cube,Untagged,1.7945,2.5989,-33.1200
+4.3220,True,Pitching Machine Cube,Untagged,2.4457,2.5872,-33.1200,True,Pitching Machine Cube,Untagged,1.7630,2.6054,-33.1200
+4.3330,True,Pitching Machine Cube,Untagged,2.4438,2.5917,-33.1200,True,Pitching Machine Cube,Untagged,1.7611,2.6099,-33.1200
+4.3445,True,Pitching Machine Cube,Untagged,2.4410,2.5946,-33.1200,True,Pitching Machine Cube,Untagged,1.7583,2.6129,-33.1200
+4.3557,True,Pitching Machine Cube,Untagged,2.4400,2.5930,-33.1200,True,Pitching Machine Cube,Untagged,1.7572,2.6114,-33.1200
+4.3662,True,Pitching Machine Cube,Untagged,2.4532,2.6208,-33.1200,True,Pitching Machine Cube,Untagged,1.7704,2.6393,-33.1200
+4.3775,True,Pitching Machine Cube,Untagged,2.4507,2.5956,-33.1200,True,Pitching Machine Cube,Untagged,1.7680,2.6140,-33.1200
+4.3887,True,Pitching Machine Cylinder,Untagged,2.4039,2.6366,-33.1529,True,Wall,Untagged,1.1993,3.2659,-19.2000
+4.4001,True,Pitching Machine Cylinder,Untagged,2.4005,2.6350,-33.1606,True,Wall,Untagged,1.1928,3.2630,-19.2000
+4.4115,True,Pitching Machine Cylinder,Untagged,2.3076,2.7160,-33.2686,True,Wall,Untagged,1.0073,3.4365,-19.2000
+4.4228,True,Pitching Machine Cylinder,Untagged,2.3043,2.7181,-33.2703,True,Wall,Untagged,1.0006,3.4409,-19.2000
+4.4340,True,Pitching Machine Cylinder,Untagged,2.3043,2.7570,-33.2572,True,Wall,Untagged,1.0003,3.5184,-19.2000
+4.4449,True,Pitching Machine Cylinder,Untagged,2.2895,2.7589,-33.2656,True,Wall,Untagged,0.9704,3.5230,-19.2000
+4.4559,True,Pitching Machine Cylinder,Untagged,2.2882,2.7586,-33.2665,True,Wall,Untagged,0.9677,3.5227,-19.2000
+4.4669,True,Pitching Machine Cylinder,Untagged,2.2857,2.7291,-33.2782,True,Wall,Untagged,0.9630,3.4641,-19.2000
+4.4783,True,Pitching Machine Cylinder,Untagged,2.2824,2.7250,-33.2810,True,Wall,Untagged,0.9563,3.4561,-19.2000
+4.4896,True,Pitching Machine Cylinder,Untagged,2.3270,2.7002,-33.2577,True,Wall,Untagged,1.0467,3.4035,-19.2000
+4.5004,True,Pitching Machine Cylinder,Untagged,2.3248,2.6977,-33.2597,True,Wall,Untagged,1.0423,3.3987,-19.2000
+4.5117,True,Pitching Machine Cylinder,Untagged,2.3231,2.6978,-33.2610,True,Wall,Untagged,1.0389,3.3993,-19.2000
+4.5227,True,Pitching Machine Cylinder,Untagged,2.3317,2.7696,-33.2286,True,Wall,Untagged,1.0552,3.5416,-19.2000
+4.5339,True,Pitching Machine Cylinder,Untagged,2.3284,2.7693,-33.2318,True,Wall,Untagged,1.0487,3.5414,-19.2000
+4.5450,True,Pitching Machine Cylinder,Untagged,2.3429,2.7706,-33.2164,True,Wall,Untagged,1.0776,3.5421,-19.2000
+4.5564,True,Pitching Machine Cylinder,Untagged,2.3293,2.6944,-33.2566,True,Wall,Untagged,1.0515,3.3917,-19.2000
+4.5673,True,Pitching Machine Cylinder,Untagged,2.3320,2.6925,-33.2547,True,Wall,Untagged,1.0568,3.3876,-19.2000
+4.5787,True,Pitching Machine Cylinder,Untagged,2.4090,2.6914,-33.1426,True,Wall,Untagged,1.2092,3.3745,-19.2000
+4.5896,True,Pitching Machine Cylinder,Untagged,2.4134,2.6889,-33.1290,True,Wall,Untagged,1.2175,3.3677,-19.2000
+4.6005,True,Pitching Machine Cylinder,Untagged,2.3973,2.6153,-33.1589,True,Wall,Untagged,1.1865,3.2220,-19.2000
+4.6119,True,Pitching Machine Cube,Untagged,2.4274,2.7575,-33.1200,True,Wall,Untagged,1.2451,3.5040,-19.2000
+4.6234,True,Pitching Machine Cylinder,Untagged,2.4024,2.6797,-33.1620,True,Wall,Untagged,1.1966,3.3514,-19.2000
+4.6341,True,Pitching Machine Cylinder,Untagged,2.4032,2.6819,-33.1598,True,Wall,Untagged,1.1981,3.3551,-19.2000
+4.6450,True,Pitching Machine Cube,Untagged,2.4504,2.7250,-33.1200,True,Pitching Machine Cube,Untagged,1.7672,2.7419,-33.1200
+4.6567,True,Pitching Machine Cube,Untagged,2.4502,2.7256,-33.1200,True,Pitching Machine Cube,Untagged,1.7671,2.7424,-33.1200
+4.6673,True,Pitching Machine Cube,Untagged,2.4507,2.7296,-33.1200,True,Pitching Machine Cube,Untagged,1.7675,2.7465,-33.1200
+4.6782,True,Pitching Machine Cylinder,Untagged,2.3708,2.7297,-33.2039,True,Wall,Untagged,1.1339,3.4555,-19.2000
+4.6902,True,Pitching Machine Cylinder,Untagged,2.3707,2.7311,-33.2033,True,Wall,Untagged,1.1338,3.4579,-19.2000
+4.7023,True,Pitching Machine Cylinder,Untagged,2.3679,2.7206,-33.2112,True,Wall,Untagged,1.1284,3.4375,-19.2000
+4.7126,True,Pitching Machine Cylinder,Untagged,2.3642,2.7185,-33.2166,True,Wall,Untagged,1.1210,3.4334,-19.2000
+4.7230,True,Pitching Machine Cylinder,Untagged,2.3760,2.7238,-33.1986,True,Wall,Untagged,1.1443,3.4424,-19.2000
+4.7342,True,Pitching Machine Cylinder,Untagged,2.3742,2.7292,-33.1990,True,Wall,Untagged,1.1407,3.4532,-19.2000
+4.7447,True,Pitching Machine Cylinder,Untagged,2.3415,2.7328,-33.2368,True,Wall,Untagged,1.0755,3.4642,-19.2000
+4.7561,True,Pitching Machine Cylinder,Untagged,2.3413,2.7372,-33.2352,True,Wall,Untagged,1.0752,3.4729,-19.2000
+4.7668,True,Pitching Machine Cylinder,Untagged,2.3787,2.7103,-33.1993,True,Wall,Untagged,1.1499,3.4149,-19.2000
+4.7785,True,Pitching Machine Cylinder,Untagged,2.3775,2.7460,-33.1851,True,Wall,Untagged,1.1468,3.4857,-19.2000
+4.7897,True,Pitching Machine Cylinder,Untagged,2.3764,2.7493,-33.1848,True,Wall,Untagged,1.1446,3.4923,-19.2000
+4.8006,True,Pitching Machine Cylinder,Untagged,2.3824,2.7529,-33.1716,True,Wall,Untagged,1.1563,3.4987,-19.2000
+4.8117,True,Pitching Machine Cylinder,Untagged,2.3842,2.7595,-33.1626,True,Wall,Untagged,1.1595,3.5107,-19.2000
+4.8231,True,Pitching Machine Cylinder,Untagged,2.3968,2.7646,-33.1220,True,Wall,Untagged,1.1835,3.5169,-19.2000
+4.8338,True,Pitching Machine Cube,Untagged,2.3977,2.7697,-33.1200,True,Wall,Untagged,1.1854,3.5269,-19.2000
+4.8452,True,Pitching Machine Cube,Untagged,2.3974,2.7732,-33.1200,True,Wall,Untagged,1.1846,3.5341,-19.2000
+4.8566,True,Pitching Machine Cube,Untagged,2.4305,2.7772,-33.1200,True,Pitching Machine Cube,Untagged,1.7471,2.7946,-33.1200
+4.8675,True,Pitching Machine Cylinder,Untagged,2.3979,2.7425,-33.1446,True,Wall,Untagged,1.1866,3.4759,-19.2000
+4.8785,True,Pitching Machine Cube,Untagged,2.4221,2.7384,-33.1200,True,Wall,Untagged,1.2344,3.4656,-19.2000
+4.8895,True,Pitching Machine Cube,Untagged,2.4152,2.7343,-33.1200,True,Wall,Untagged,1.2205,3.4576,-19.2000
+4.9007,True,Pitching Machine Cube,Untagged,2.4175,2.7278,-33.1200,True,Wall,Untagged,1.2250,3.4446,-19.2000
+4.9120,True,Pitching Machine Cube,Untagged,2.4189,2.7613,-33.1200,True,Wall,Untagged,1.2276,3.5119,-19.2000
+4.9230,True,Pitching Machine Cube,Untagged,2.4208,2.7586,-33.1200,True,Wall,Untagged,1.2315,3.5063,-19.2000
+4.9355,True,Pitching Machine Cylinder,Untagged,2.3922,2.7555,-33.1474,True,Wall,Untagged,1.1749,3.5032,-19.2000
+4.9457,True,Pitching Machine Cylinder,Untagged,2.3396,2.7510,-33.2309,True,Wall,Untagged,1.0710,3.5029,-19.2000
+4.9566,True,Pitching Machine Cylinder,Untagged,2.3443,2.6453,-33.2433,True,Wall,Untagged,1.0814,3.2910,-19.2000
+4.9678,True,Pitching Machine Cylinder,Untagged,2.3512,2.6408,-33.2360,True,Wall,Untagged,1.0950,3.2817,-19.2000
+4.9789,True,Pitching Machine Cube,Untagged,2.4497,2.6656,-33.1200,True,Pitching Machine Cube,Untagged,1.7667,2.6842,-33.1200
+4.9898,True,Pitching Machine Cube,Untagged,2.4752,2.6395,-33.1200,True,Pitching Machine Cube,Untagged,1.7923,2.6583,-33.1200
